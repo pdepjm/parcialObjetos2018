@@ -1,0 +1,7 @@
+import parcial.*
+
+test "aprobado" {
+
+	assert.equals(10,parcial.nota())
+
+}
